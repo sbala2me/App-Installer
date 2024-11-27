@@ -33,3 +33,6 @@ This script eliminates the need to remember complex package manager commands or 
 - Logging feature to track package management history.
 
 This script is perfect for Linux enthusiasts, system administrators, and anyone looking to simplify their app management workflow!
+
+Github Link:https://github.com/y8tireu/App-Installer
+Github Profile:https://github.com/y8tireu
